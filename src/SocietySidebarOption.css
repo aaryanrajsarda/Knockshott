@@ -1,0 +1,8 @@
+.sidebarOption:hover {
+  background-color: #74c7b8;
+  cursor: pointer;
+}
+.sidebarOption > h3 {
+  color: white;
+  font-weight: 100;
+}
